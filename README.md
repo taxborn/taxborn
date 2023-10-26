@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Braxton! - [taxborn.com](https://www.taxborn.com)
-I'm a 21-year-old computer science student at [Minnesota State University, Mankato](https://mnsu.edu), 
+I'm a 22-year-old computer science student at [Minnesota State University, Mankato](https://mnsu.edu), 
 interested in compilers and API development. I enjoy creating tools that make 
 computer interaction more user-friendly for developers and the rest of the world. 
 I believe it's important to make it easy to innovate. Currently, I'm working on 
@@ -9,7 +9,7 @@ Outside of school, I like to hike the bluffs of southern Minnesota!
 ```py
 class Human:
 	name = "Braxton Fair"
-	age = getAge("10-18-2001") # 21!
+	age = getAge("10-18-2001") # 22!
 	hobbies = [
 		"Working on my compiler",
 		"Spending too much time configuring my editor (neovim)",
