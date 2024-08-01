@@ -5,7 +5,7 @@ I'm a 22-year-old Software Engineer working at [Thomson Reuters] on their Westla
 [Thomson Reuters]: https://tr.com
 
 ## Currently working on:
-- :person_in_motorized_wheelchair: Accessibility on the [Westlaw] project
+- :accessibility: Accessibility on the [Westlaw] project
 - :herb: [taxborn.com], my personal garden
 - :keyboard: [HSS], experiments in generating hashes as fast as possible
 - :coconut: [Coquito], a hobby programming language
