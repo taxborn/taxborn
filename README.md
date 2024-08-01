@@ -1,36 +1,28 @@
-# :wave: Hi, I'm Braxton! - [taxborn.com](https://www.taxborn.com)
-I'm a 22-year-old computer science student at [Minnesota State University, Mankato](https://mnsu.edu), 
-interested in compilers and API development. I enjoy creating tools that make 
-computer interaction more user-friendly for developers and the rest of the world. 
-I believe it's important to make it easy to innovate. Currently, I'm working on 
-research in [continuous mouse authentication using machine learning](https://github.com/taxborn/mauth-research-project). 
-Outside of school, I like to hike the bluffs of southern Minnesota!
+# :wave: Hi, I'm Braxton! - [taxborn.com]
+I'm a 22-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
 
-```py
-class Human:
-	name = "Braxton Fair"
-	age = getAge("10-18-2001") # 22!
-	hobbies = [
-		"Working on my compiler",
-		"Spending too much time configuring my editor (neovim)",
-	]
+[taxborn.com]: https://www.taxborn.com
+[Thomson Reuters]: https://tr.com
 
-	def getAge(birthdate: str):
-		birthdate = datetime.strptime(birthdate, "%m-%d-%Y")
-		today = datetime.today()
-		age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
-		return age
+## Currently working on:
+- :person_in_motorized_wheelchair: Accessibility on the [Westlaw] project
+- :herb: [taxborn.com], my personal garden
+- :keyboard: [HSS], experiments in generating hashes as fast as possible
+- :coconut: [Coquito], a hobby programming language
 
-	def goals():
-		CreateAProgrammingLanguage() # Currently being worked on!
-		Graduate() # May 2024
-		GetMyFirstJob()
+[Westlaw]: https://legal.thomsonreuters.com/en/products/westlaw-precision
+[taxborn.com]: https://github.com/taxborn/taxborn.com
+[HSS]: https://github.com/taxborn/hashing
+[Coquito]: https://github.com/taxborn/coquito
+
+```haskell
+quicksort :: Ord a => [a] -> [a]
+quicksort []     = []
+quicksort (x:xs) = quicksort smaller ++ [x] ++ quicksort larger
+  where
+    smaller = [a | a <- xs, a <= x]
+    larger  = [a | a <- xs, a > x]
 ```
 
-## Current Projects
-- :coconut: [Coquito](https://github.com/taxborn/coquito), a programming language!
-- :mouse: [mAuth Research Project](https://github.com/taxborn/mauth-research-project), a machine learning research project.
-- Working on my DSA @ [Leetcode](https://leetcode.com/taxborn/)
-
-### My Github Stats!
-![taxborn's Github Stats](https://github-readme-stats.vercel.app/api?username=taxborn&count_private=true&hide=issues)
+*one of my favorite algorithms, expressed in Haskell. it reminds that simple, elegent
+code can wield so much power.*
