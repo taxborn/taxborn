@@ -1,11 +1,11 @@
 # :wave: Hi, I'm Braxton! - [taxborn.com]
-I'm a 22-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
+I'm a 23-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
 
 [taxborn.com]: https://www.taxborn.com
 [Thomson Reuters]: https://tr.com
 
 ## Currently working on:
-- :accessibility: Accessibility on the [Westlaw] project
+- :robot: Gen AI on the [Westlaw] project
 - :herb: [taxborn.com], my personal garden
 - :keyboard: [HSS], experiments in generating hashes as fast as possible
 - :coconut: [Coquito], a hobby programming language
