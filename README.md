@@ -8,12 +8,10 @@ I'm a 24-year-old Software Engineer working at [Thomson Reuters] on their Westla
 - :robot: Gen AI on the [Westlaw] project
 - :herb: [taxborn.com], my personal garden
 - :keyboard: [HSS], experiments in generating hashes as fast as possible
-- :coconut: [Coquito], a hobby programming language
 
-[Westlaw]: https://legal.thomsonreuters.com/en/products/westlaw-precision
-[taxborn.com]: https://github.com/taxborn/taxborn.com
-[HSS]: https://github.com/taxborn/hashing
-[Coquito]: https://github.com/taxborn/coquito
+[Westlaw]: https://legal.thomsonreuters.com/en/products/westlaw-advantage
+[taxborn.com]: https://git.mischief.town/taxborn/taxborn.com
+[HSS]: https://git.mischief.town/taxborn/hashing
 
 ```haskell
 quicksort :: Ord a => [a] -> [a]
