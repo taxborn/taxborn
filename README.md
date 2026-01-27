@@ -1,5 +1,7 @@
 # :wave: Hi, I'm Braxton! - [taxborn.com]
-I'm a 24-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
+I'm a 24-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product. Currently, all my projects
+are hosted on a self-hosted Forgejo Git forge at [git.mischief.town](https://git.mischief.town), and I mirror these 
+repositories to GitHub.
 
 [taxborn.com]: https://www.taxborn.com
 [Thomson Reuters]: https://tr.com
