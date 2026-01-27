@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Braxton! - [taxborn.com]
-I'm a 23-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
+I'm a 24-year-old Software Engineer working at [Thomson Reuters] on their Westlaw product.
 
 [taxborn.com]: https://www.taxborn.com
 [Thomson Reuters]: https://tr.com
