@@ -1,18 +1,18 @@
-# :wave: Hi, I'm Braxton! - [taxborn.com]
-I'm a 24-year-old Software Engineer working at [Thomson Reuters] on their Westlaw and CoCounsel products. Currently, all my projects
-are hosted on a self-hosted Forgejo Git forge at [git.mischief.town](https://git.mischief.town), and I mirror these 
+# :wave: hi, i'm braxton!
+I'm a 24-year-old software engineer working at [Thomson Reuters] on their Westlaw and CoCounsel products. currently, all my projects
+are hosted on a self-hosted Forgejo Git forge at [git.biscuits.at](https://git.biscuits.at), and I mirror these 
 repositories to [GitHub].
 
-[taxborn.com]: https://www.taxborn.com
 [Thomson Reuters]: https://tr.com
 [GitHub]: https://github.com/taxborn
 
 ## Currently working on:
 - :robot: Deep Research on the [Westlaw] project
-- :herb: [taxborn.com], my personal at-proto powered digital garden
+- :robot: Westlaw Brief Builder on the [CoCounsel] project
+- :herb: my personal atproto-powered digital garden
 
 [Westlaw]: https://legal.thomsonreuters.com/en/products/westlaw-advantage
-[taxborn.com]: https://git.mischief.town/taxborn/taxborn.com
+[CoCounsel]: https://www.thomsonreuters.com/en/cocounsel
 
 ```haskell
 quicksort :: Ord a => [a] -> [a]
